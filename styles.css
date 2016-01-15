@@ -1,0 +1,57 @@
+ul {
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+}
+
+header#title{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 4px;
+    background-color: #000080;
+}
+
+main {
+    margin-left:27%;
+    padding:1px;
+    background-color: lightblue;
+}
+
+article header {
+    background-color: #99ccff;
+}
+
+article time {
+    font-style: italic;
+    color: blue;
+}
+
+footer {
+    text-align: center;
+    word-spacing: 20px;
+    padding: 10px;
+    text-transform: uppercase;
+    font-size: 10px;
+    margin-left: 26%;
+}
+
+article div {
+    margin-left: 5%;
+    padding: 3px;
+}
+
+body {
+    background-color: white;
+}
+
+article footer {
+    text-align: center;
+    word-spacing: 20px;
+    text-transform: uppercase;
+    font-size: 10px;
+    margin-left: 0%;
+}
